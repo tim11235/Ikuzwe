@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ikuzwe/static/css/main.fd6c9729.chunk.css",
+    "main.js": "/Ikuzwe/static/js/main.9b9130a8.chunk.js",
+    "main.js.map": "/Ikuzwe/static/js/main.9b9130a8.chunk.js.map",
+    "runtime~main.js": "/Ikuzwe/static/js/runtime~main.28c52630.js",
+    "runtime~main.js.map": "/Ikuzwe/static/js/runtime~main.28c52630.js.map",
+    "static/css/2.fcf96961.chunk.css": "/Ikuzwe/static/css/2.fcf96961.chunk.css",
+    "static/js/2.0a8bb44d.chunk.js": "/Ikuzwe/static/js/2.0a8bb44d.chunk.js",
+    "static/js/2.0a8bb44d.chunk.js.map": "/Ikuzwe/static/js/2.0a8bb44d.chunk.js.map",
+    "index.html": "/Ikuzwe/index.html",
+    "precache-manifest.d4dfd4c5285ed3fe5a897d67943b460f.js": "/Ikuzwe/precache-manifest.d4dfd4c5285ed3fe5a897d67943b460f.js",
+    "service-worker.js": "/Ikuzwe/service-worker.js",
+    "static/css/2.fcf96961.chunk.css.map": "/Ikuzwe/static/css/2.fcf96961.chunk.css.map",
+    "static/css/main.fd6c9729.chunk.css.map": "/Ikuzwe/static/css/main.fd6c9729.chunk.css.map",
+    "static/media/all.min.css": "/Ikuzwe/static/media/fa-solid-900.f14c3b2f.ttf",
+    "static/media/profile.jpg": "/Ikuzwe/static/media/profile.9bebe12d.jpg"
+  }
+}
